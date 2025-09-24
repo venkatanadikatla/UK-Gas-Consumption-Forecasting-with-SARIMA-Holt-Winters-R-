@@ -1,0 +1,2 @@
+# UK-Gas-Consumption-Forecasting-with-SARIMA-Holt-Winters-R-
+Quarterly UK natural gas consumption (1960–1986) modeled with log transform + seasonal differencing, SARIMA identification via auto.arima, full residual diagnostics (ACF/PACF, Ljung–Box), 16-quarter forecasts with back-transformation to original units, and a parallel Holt-Winters (additive) exponential smoothing fit with manual forecast checks.
